@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>structure of html</title>
+        <head>
+    <body>
+          HELLO CODINGAL<br>INTRODUCTION ON STRUCTURE OF HTML<br>html is a (hypertext markup language) and it is page description.<br>Used in manipulate text and image etc.<br>Its latest version is <HTML:5></HTML:5> it contains <head>,<!DOCTYPE html>,<title></title>,<body>etc..and this is how html is created. 
+            <!--comment-->
+    </body>
+</html>
